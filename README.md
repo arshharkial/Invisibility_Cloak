@@ -4,4 +4,4 @@
 - OpenCV
 - Numpy
 
-### Enter q to exit
+### Enter 'q' to exit
